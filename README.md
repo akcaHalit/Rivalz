@@ -1,6 +1,5 @@
 # Rivalz
 
-#
 <details>
   <summary> <h1> Hetzner VPS Windows Kurulumu</summary> </h1>
     
